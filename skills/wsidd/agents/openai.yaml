@@ -1,0 +1,4 @@
+interface:
+  display_name: "What should I did & do?"
+  short_description: "프로젝트 워크플로우와 진행 상태를 근거로 정리"
+  default_prompt: "Use $wsidd to inspect this project and show the overall workflow with completed, in-progress, and not-started work."

@@ -1,0 +1,7 @@
+.runtime/
+.validation-deps/
+__pycache__/
+.env
+.env.*
+Thumbs.db
+.DS_Store
